@@ -27,6 +27,7 @@ Add your course schedule using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+```
 <html>
     <head>
         <title>
@@ -112,11 +113,10 @@ Execute the program using runserver command.
         </table>
     </body>
 </html>
+```
 
 ## OUTPUT
-```
-c:\Users\acer\Pictures\Screenshots\Screenshot 2025-11-26 152028.png
-```
+![alt text]({EE80A908-5EF0-463D-83C0-B209163A23EB}.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
